@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing should match navbar coding 1`] = `
+<nav
+  className="justify-content-between navbar navbar-expand-md navbar-dark bg-dark fixed-top"
+  style={
+    Object {
+      "minHeight": 77,
+    }
+  }
+>
+  <span
+    className="navbar-brand"
+  >
+    Tech Biz News
+  </span>
+  <button
+    aria-controls="responsive-navbar-nav"
+    aria-label="Toggle navigation"
+    className="navbar-toggler collapsed"
+    onClick={[Function]}
+    type="button"
+  >
+    <span
+      className="navbar-toggler-icon"
+    />
+  </button>
+  <div
+    aria-expanded={null}
+    className="navbar-collapse collapse"
+    id="responsive-navbar-nav"
+  >
+    <div
+      className="mr-auto navbar-nav"
+      onKeyDown={[Function]}
+    >
+      <div
+        className="nav-item"
+      >
+        <button
+          className="btn btn-outline-light"
+          disabled={false}
+          onClick={[Function]}
+          style={
+            Object {
+              "marginRight": 10,
+            }
+          }
+          type="button"
+        >
+          Home
+        </button>
+      </div>
+      <div
+        className="nav-item"
+      >
+        <button
+          className="btn btn-outline-light"
+          disabled={false}
+          onClick={[Function]}
+          style={
+            Object {
+              "marginRight": 10,
+            }
+          }
+          type="button"
+        >
+          Technology
+        </button>
+      </div>
+      <div
+        className="nav-item"
+      >
+        <button
+          className="btn btn-outline-light"
+          disabled={false}
+          onClick={[Function]}
+          style={
+            Object {
+              "marginRight": 10,
+            }
+          }
+          type="button"
+        >
+          Business
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>
+`;

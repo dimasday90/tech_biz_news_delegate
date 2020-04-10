@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing should match footer coding 1`] = `
+<nav
+  className="justify-content-center navbar navbar-expand navbar-dark bg-dark"
+>
+  <span
+    className="navbar-brand"
+  >
+    Powered by
+     
+    <a
+      href="https://newsapi.org"
+      target="_blank"
+    >
+      newsapi.org
+    </a>
+  </span>
+</nav>
+`;
