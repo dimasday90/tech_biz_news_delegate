@@ -27,7 +27,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
         <img
           alt="No Image Available"
           className="card-img-top"
-          src="https://i.ytimg.com/vi/Yy62wQ2LF8k/maxresdefault.jpg"
+          src="https://cdn.mos.cms.futurecdn.net/2gb2CHQ78Gf6EEda8ddypP-1200-80.jpg"
         />
         <div
           className="card-body"
@@ -35,7 +35,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
           <div
             className="card-title h5"
           >
-            How Materia Works in Final Fantasy 7 Remake - IGN
+            You’ll never guess Google’s most valuable Android app of 2020 - TechRadar
           </div>
           <p
             className="card-text"
@@ -46,16 +46,16 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
             }
           >
             Author: 
-            -
+            Desire Athow
           </p>
           <p
             className="card-text"
           >
-            Just like in the original game, Materia can be equipped to your party's weapons and armor to give your team different spells, buffs, abilities, and perks. He...
+            Top Google app has nothing to do with games and everything to do with family
           </p>
           <a
             className="card-link"
-            href="https://www.youtube.com/watch?v=Yy62wQ2LF8k"
+            href="https://www.techradar.com/news/googles-most-valuable-android-app-of-2020-to-date-isyoull-never-guess"
             target="_blank"
           >
             Details
@@ -68,7 +68,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
             className="text-muted"
           >
             Published Time: 
-            Fri Apr 10 2020 07:00:13 GMT+0700 (Western Indonesia Time)
+            Thu Jul 02 2020 10:00:00 GMT+0700 (Western Indonesia Time)
           </small>
         </div>
       </div>
@@ -88,7 +88,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
         <img
           alt="No Image Available"
           className="card-img-top"
-          src="https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1587/15875866/3653188-cyber.jpg"
+          src="https://cdn.vox-cdn.com/thumbor/zO6aOUGDcK8xe_x08DDDbPa84rY=/0x2:982x516/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/12321689/Screen_Shot_2018_08_20_at_1.25.27_PM.png"
         />
         <div
           className="card-body"
@@ -96,190 +96,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
           <div
             className="card-title h5"
           >
-            Next-Gen Versions Of Cyberpunk 2077 Won't Release At PS5/Xbox Series X Launch, Will "Come Later" - GameSpot
-          </div>
-          <p
-            className="card-text"
-            style={
-              Object {
-                "fontSize": 12,
-              }
-            }
-          >
-            Author: 
-            Jordan Ramée
-          </p>
-          <p
-            className="card-text"
-          >
-            CD Projekt Red has confirmed that next-gen versions of Cyberpunk 2077 are on the table, but we shouldn't expect to see them with the launch of PlayStation 5 and Xbox Series X.
-          </p>
-          <a
-            className="card-link"
-            href="https://www.gamespot.com/articles/next-gen-versions-of-cyberpunk-2077-wont-release-a/1100-6475884/"
-            target="_blank"
-          >
-            Details
-          </a>
-        </div>
-        <div
-          className="card-footer"
-        >
-          <small
-            className="text-muted"
-          >
-            Published Time: 
-            Fri Apr 10 2020 06:53:43 GMT+0700 (Western Indonesia Time)
-          </small>
-        </div>
-      </div>
-    </div>
-    <div
-      className="col-lg-3 col-md-3 col-sm-6 col-12"
-    >
-      <div
-        className="card"
-        style={
-          Object {
-            "marginBottom": 21,
-            "maxHeight": 920,
-          }
-        }
-      >
-        <img
-          alt="No Image Available"
-          className="card-img-top"
-          src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8fa6b4b4aaaa0006ecf647%2F0x0.jpg%3FcropX1%3D667%26cropX2%3D2819%26cropY1%3D85%26cropY2%3D1296"
-        />
-        <div
-          className="card-body"
-        >
-          <div
-            className="card-title h5"
-          >
-            Apple Insider Exposes 2020 iPhone, Looks Too Good To Be True - Forbes
-          </div>
-          <p
-            className="card-text"
-            style={
-              Object {
-                "fontSize": 12,
-              }
-            }
-          >
-            Author: 
-            Gordon Kelly
-          </p>
-          <p
-            className="card-text"
-          >
-            Verified internal Apple images reveal a stunning new 2020 iPhone design...
-          </p>
-          <a
-            className="card-link"
-            href="https://www.forbes.com/sites/gordonkelly/2020/04/09/apple-2020-iphone-12-design-release-camera-ios-14-widgets-new-iphone-update/"
-            target="_blank"
-          >
-            Details
-          </a>
-        </div>
-        <div
-          className="card-footer"
-        >
-          <small
-            className="text-muted"
-          >
-            Published Time: 
-            Fri Apr 10 2020 06:28:07 GMT+0700 (Western Indonesia Time)
-          </small>
-        </div>
-      </div>
-    </div>
-    <div
-      className="col-lg-3 col-md-3 col-sm-6 col-12"
-    >
-      <div
-        className="card"
-        style={
-          Object {
-            "marginBottom": 21,
-            "maxHeight": 920,
-          }
-        }
-      >
-        <img
-          alt="No Image Available"
-          className="card-img-top"
-          src="https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1179/11799911/3652234-wwarzone.jpg"
-        />
-        <div
-          className="card-body"
-        >
-          <div
-            className="card-title h5"
-          >
-            CoD: Modern Warfare Update Season 3 Patch Notes (Xbox One, PS4, PC) - GameSpot
-          </div>
-          <p
-            className="card-text"
-            style={
-              Object {
-                "fontSize": 12,
-              }
-            }
-          >
-            Author: 
-            Eddie Makuch
-          </p>
-          <p
-            className="card-text"
-          >
-            Infinity Ward has released the patch notes for the big PS4, Xbox One, and PC update, and there are some major changes now available.
-          </p>
-          <a
-            className="card-link"
-            href="https://www.gamespot.com/articles/cod-modern-warfare-warzone-season-3-update-patch-n/1100-6475780/"
-            target="_blank"
-          >
-            Details
-          </a>
-        </div>
-        <div
-          className="card-footer"
-        >
-          <small
-            className="text-muted"
-          >
-            Published Time: 
-            Fri Apr 10 2020 05:58:00 GMT+0700 (Western Indonesia Time)
-          </small>
-        </div>
-      </div>
-    </div>
-    <div
-      className="col-lg-3 col-md-3 col-sm-6 col-12"
-    >
-      <div
-        className="card"
-        style={
-          Object {
-            "marginBottom": 21,
-            "maxHeight": 920,
-          }
-        }
-      >
-        <img
-          alt="No Image Available"
-          className="card-img-top"
-          src="https://cdn.vox-cdn.com/thumbor/l69xtH5If5Af6I_6UYELVCdXxOQ=/402x0:5177x2500/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19887934/9p6JvT3g.png"
-        />
-        <div
-          className="card-body"
-        >
-          <div
-            className="card-title h5"
-          >
-            Facebook is adding a Quiet Mode that silences push notifications on mobile - The Verge
+            Dark Sky delays shutdown of Android app until August 1st - The Verge
           </div>
           <p
             className="card-text"
@@ -295,11 +112,11 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
           <p
             className="card-text"
           >
-            Facebook is rolling out a new Quiet Mode as part of its digital wellness dashboard on mobile. The mode lets you silence both in-app notification badges and system-level badges and push notifications. The mode will also remind you that it’s active when you ope…
+            Popular weather app Dark Sky, now owned by Apple, is keeping its doors open on Android for a little longer. The company said on Wednesday in an update on its website that it plans to keep the Android version going until August 1st, after initially announcing …
           </p>
           <a
             className="card-link"
-            href="https://www.theverge.com/2020/4/9/21215638/facebook-quiet-mode-silence-push-mobile-notifications"
+            href="https://www.theverge.com/2020/7/1/21310801/dark-sky-android-app-delay-shutdown-august-1st"
             target="_blank"
           >
             Details
@@ -312,7 +129,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
             className="text-muted"
           >
             Published Time: 
-            Fri Apr 10 2020 05:17:54 GMT+0700 (Western Indonesia Time)
+            Thu Jul 02 2020 08:32:00 GMT+0700 (Western Indonesia Time)
           </small>
         </div>
       </div>
@@ -332,7 +149,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
         <img
           alt="No Image Available"
           className="card-img-top"
-          src="https://cdn.vox-cdn.com/thumbor/wDQj4z8Q8CsX-8niPPmCgu3e-XU=/0x115:1600x953/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19709641/motogold.jpeg"
+          src="https://9to5mac.com/wp-content/uploads/sites/6/2019/07/Facebook-fine.jpg?quality=82&strip=all"
         />
         <div
           className="card-body"
@@ -340,68 +157,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
           <div
             className="card-title h5"
           >
-            Motorola’s $1,499 flipping Razr now comes in gold - The Verge
-          </div>
-          <p
-            className="card-text"
-            style={
-              Object {
-                "fontSize": 12,
-              }
-            }
-          >
-            Author: 
-            Taylor Lyles
-          </p>
-          <p
-            className="card-text"
-          >
-            Motorola’s foldable Razr phone now comes in a blush gold color variant. The gold version features a black-and-gold color scheme and costs the same price as the black model, which retails for $1,499.
-          </p>
-          <a
-            className="card-link"
-            href="https://www.theverge.com/2020/4/9/21215610/motorola-foldable-razr-flip-phone-gold-color-verizon-price"
-            target="_blank"
-          >
-            Details
-          </a>
-        </div>
-        <div
-          className="card-footer"
-        >
-          <small
-            className="text-muted"
-          >
-            Published Time: 
-            Fri Apr 10 2020 05:10:10 GMT+0700 (Western Indonesia Time)
-          </small>
-        </div>
-      </div>
-    </div>
-    <div
-      className="col-lg-3 col-md-3 col-sm-6 col-12"
-    >
-      <div
-        className="card"
-        style={
-          Object {
-            "marginBottom": 21,
-            "maxHeight": 920,
-          }
-        }
-      >
-        <img
-          alt="No Image Available"
-          className="card-img-top"
-          src="https://9to5google.com/wp-content/uploads/sites/4/2020/04/APK-Insight-Google-Stadia-2-13.jpg?resize=1024,512"
-        />
-        <div
-          className="card-body"
-        >
-          <div
-            className="card-title h5"
-          >
-            Google Stadia 2.13 preps touchscreen gamepad, Android TV, more [APK Insight] - 9to5Google
+            Facebook once again shares data from inactive users with developers - 9to5Mac
           </div>
           <p
             className="card-text"
@@ -417,11 +173,11 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
           <p
             className="card-text"
           >
-            We've found that Google has begun working on the ability to play Stadia games with touch controls on your phone, as well as Android TV support.
+            Facebook is once again involved in a controversial situation regarding privacy issues. The company has confirmed that thousands of developers have been able to access data from inactive users, which is an unexpected behavior. After the Cambridge Analytica cri…
           </p>
           <a
             className="card-link"
-            href="https://9to5google.com/2020/04/09/google-stadia-2-13-touch-controls/"
+            href="https://9to5mac.com/2020/07/01/facebook-once-again-shares-data-from-inactive-users-with-developers/"
             target="_blank"
           >
             Details
@@ -434,7 +190,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
             className="text-muted"
           >
             Published Time: 
-            Fri Apr 10 2020 04:52:09 GMT+0700 (Western Indonesia Time)
+            Thu Jul 02 2020 08:25:35 GMT+0700 (Western Indonesia Time)
           </small>
         </div>
       </div>
@@ -454,7 +210,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
         <img
           alt="No Image Available"
           className="card-img-top"
-          src="https://cdn.vox-cdn.com/thumbor/aoX9E_B4pYDnjY2I1jcBPpxzs8g=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19339189/vlcsnap_2019_11_01_14h52m04s461.jpg"
+          src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1142126320%2F0x0.jpg"
         />
         <div
           className="card-body"
@@ -462,7 +218,7 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
           <div
             className="card-title h5"
           >
-            World of Warcraft: Shadowlands gets a new ‘!’ quest marker - Polygon
+            Google Stops Selling The Pixel 3a, Leaving It Without A Mid-Range Phone - Forbes
           </div>
           <p
             className="card-text"
@@ -473,16 +229,16 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
             }
           >
             Author: 
-            Ryan Gilliam
+            Kris Holt
           </p>
           <p
             className="card-text"
           >
-            After nearly two decades, Blizzard has made a change to the famous World of Warcraft quest icons. In the new Shadowlands expansion, players have several new quality of life improvements on the tired questing interface.
+            You might still be able to pick one up from a third-party retailer, or on the Google Store outside of the US.
           </p>
           <a
             className="card-link"
-            href="https://www.polygon.com/2020/4/9/21215595/world-of-warcraft-shadowlands-alpha-quest-icon-ui-upgrade-map-marker-campaign-side"
+            href="https://www.forbes.com/sites/krisholt/2020/07/01/google-pixel-3a-discontinued/"
             target="_blank"
           >
             Details
@@ -495,7 +251,251 @@ exports[`With Snapshot Testing should match newscard coding 1`] = `
             className="text-muted"
           >
             Published Time: 
-            Fri Apr 10 2020 04:48:23 GMT+0700 (Western Indonesia Time)
+            Thu Jul 02 2020 08:25:34 GMT+0700 (Western Indonesia Time)
+          </small>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-lg-3 col-md-3 col-sm-6 col-12"
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "marginBottom": 21,
+            "maxHeight": 920,
+          }
+        }
+      >
+        <img
+          alt="No Image Available"
+          className="card-img-top"
+          src="https://assets1.ignimgs.com/2020/04/03/crucible-1585911302037.jpg?width=1280"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            Amazon's Crucible Is Headed Back To Closed Beta a Month After Release - IGN
+          </div>
+          <p
+            className="card-text"
+            style={
+              Object {
+                "fontSize": 12,
+              }
+            }
+          >
+            Author: 
+            Jordan Oloman
+          </p>
+          <p
+            className="card-text"
+          >
+            Just a month after release, Crucible is headed back into closed beta development to "focus on providing the best possible experience".
+          </p>
+          <a
+            className="card-link"
+            href="https://www.ign.com/articles/crucible-closed-beta-after-release"
+            target="_blank"
+          >
+            Details
+          </a>
+        </div>
+        <div
+          className="card-footer"
+        >
+          <small
+            className="text-muted"
+          >
+            Published Time: 
+            Thu Jul 02 2020 07:25:47 GMT+0700 (Western Indonesia Time)
+          </small>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-lg-3 col-md-3 col-sm-6 col-12"
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "marginBottom": 21,
+            "maxHeight": 920,
+          }
+        }
+      >
+        <img
+          alt="No Image Available"
+          className="card-img-top"
+          src="https://www.androidpolice.com/wp-content/uploads/2019/01/Better-Developed-Google-Logo-Shelf-kitsch-668x445.jpg"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            Gawk at the boatloads of cash Google is throwing at Apple to maintain its search monopoly - Android Police
+          </div>
+          <p
+            className="card-text"
+            style={
+              Object {
+                "fontSize": 12,
+              }
+            }
+          >
+            Author: 
+            https://www.facebook.com/ryne.hager
+          </p>
+          <p
+            className="card-text"
+          >
+            According to a recent report by the UK Competition and Markets Authority, Google paid £1.2 billion (or around $1.5 billion) across 2019 to secure
+          </p>
+          <a
+            className="card-link"
+            href="https://www.androidpolice.com/2020/07/01/gawk-at-the-boatloads-of-cash-google-is-throwing-at-apple-to-maintain-its-search-monopoly/"
+            target="_blank"
+          >
+            Details
+          </a>
+        </div>
+        <div
+          className="card-footer"
+        >
+          <small
+            className="text-muted"
+          >
+            Published Time: 
+            Thu Jul 02 2020 06:28:07 GMT+0700 (Western Indonesia Time)
+          </small>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-lg-3 col-md-3 col-sm-6 col-12"
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "marginBottom": 21,
+            "maxHeight": 920,
+          }
+        }
+      >
+        <img
+          alt="No Image Available"
+          className="card-img-top"
+          src="https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F28129f9a299a4be4bd9b9e9c4a88b6ac%2F0x0.jpg"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            Apple’s MacBook Pro Is Going To Kill The Competition - Forbes
+          </div>
+          <p
+            className="card-text"
+            style={
+              Object {
+                "fontSize": 12,
+              }
+            }
+          >
+            Author: 
+            Ewan Spence
+          </p>
+          <p
+            className="card-text"
+          >
+            Apple’s move to ARM-based processors for the Mac family has scored its first victory over the competition. It won't be the last.
+          </p>
+          <a
+            className="card-link"
+            href="https://www.forbes.com/sites/ewanspence/2020/07/01/apple-macbook-pro-macos-arm-intel-versus-microsoft-surface-pro-x-windows-10-benchmark/"
+            target="_blank"
+          >
+            Details
+          </a>
+        </div>
+        <div
+          className="card-footer"
+        >
+          <small
+            className="text-muted"
+          >
+            Published Time: 
+            Thu Jul 02 2020 06:26:05 GMT+0700 (Western Indonesia Time)
+          </small>
+        </div>
+      </div>
+    </div>
+    <div
+      className="col-lg-3 col-md-3 col-sm-6 col-12"
+    >
+      <div
+        className="card"
+        style={
+          Object {
+            "marginBottom": 21,
+            "maxHeight": 920,
+          }
+        }
+      >
+        <img
+          alt="No Image Available"
+          className="card-img-top"
+          src="https://cdn.mos.cms.futurecdn.net/SvvYZerGkfh5bQmGBYMZa3-1200-80.jpg"
+        />
+        <div
+          className="card-body"
+        >
+          <div
+            className="card-title h5"
+          >
+            Big Google Chrome upgrade will change the way you surf — how to get it now - Tom's Guide
+          </div>
+          <p
+            className="card-text"
+            style={
+              Object {
+                "fontSize": 12,
+              }
+            }
+          >
+            Author: 
+            Brittany Vincent
+          </p>
+          <p
+            className="card-text"
+          >
+            With the Chrome beta, you can add tabs to toggle between multiple pages
+          </p>
+          <a
+            className="card-link"
+            href="https://www.tomsguide.com/news/big-google-chrome-upgrade-will-change-the-way-you-surf-how-to-get-it-now"
+            target="_blank"
+          >
+            Details
+          </a>
+        </div>
+        <div
+          className="card-footer"
+        >
+          <small
+            className="text-muted"
+          >
+            Published Time: 
+            Thu Jul 02 2020 05:34:56 GMT+0700 (Western Indonesia Time)
           </small>
         </div>
       </div>
